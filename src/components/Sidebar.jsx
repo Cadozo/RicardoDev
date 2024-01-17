@@ -10,7 +10,7 @@ function Sidebar() {
         <p className="title">Desenvolvedor Front-End</p>
         <SocialNetworks/>
         <InformationContainer/>
-        <a href="" className="btn">Download</a>
+        <a href="https://docs.google.com/document/d/e/2PACX-1vSJleWiWsWdKe1LsXzNO1qB3eoTo1GYS7p8IXDHKXVNVJ8PqyQUvwjnAy1EdpwxlpjXST4NPyW7xlcy/pub" className="btn" target='_blank' >Ver Currículo</a>
       </aside>
     );
   };
